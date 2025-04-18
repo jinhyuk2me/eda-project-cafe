@@ -35,7 +35,7 @@
 
 3. **MySQL 저장 및 불러오기**:
    - 커스텀 `StoreDBManager` 클래스 활용
-   - 중복 방지를 위해 `store name`을 PK로 설정
+   - 중복 방지를 위해 store들의 `name`을 PK로 설정
 
 4. **거리 계산 및 분석**:
    - `Haversine 공식` + `KDTree` 기반 최근접 거리 계산
