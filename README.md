@@ -143,7 +143,7 @@
 ## 📎 참고 및 출처
 
 - [스타벅스 매장 찾기](https://www.starbucks.co.kr/store/store_map.do)
-- [이디야 매장 찾기]([https://smartediya.com/store](https://members.ediya.com/store))
+- [이디야 매장 찾기](https://members.ediya.com/store)
 - Google Maps Geocoding API
 - Naver Local Search API
 
