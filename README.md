@@ -134,9 +134,25 @@
 
 ## 🙋‍♂️ 기여자
 
-| 이름 | GitHub |
-|------|--------|
-| 장진혁 (Jinhyuk Jang) | [@jinhyuk2me](https://github.com/jinhyuk2me) |
+<table>
+  <thead>
+    <tr>
+      <th>이름</th>
+      <th>GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>장진혁</strong></td>
+      <td>
+        <a href="https://github.com/jinhyuk2me">
+          <img src="https://img.shields.io/badge/github-jinhyuk2me-181717?style=flat-square&logo=github&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
