@@ -1,10 +1,9 @@
-<
-p align="center">
-  <img src="https://github.com/jinhyuk2me/eda-project-cafespot/blob/main/img/banner.png?raw=true" width="100%">
+<p align="center">
+  <img src="https://github.com/jinhyuk2me/eda-project-cafe/blob/main/img/banner.png?raw=true" width="100%">
 </p>
 
 ---
-# 서울시 커피 프랜차이즈 입지 분석
+# 스타벅스 vs 이디야: 서울시 매장 입지 비교 분석
 > **Location Strategy Comparison: Starbucks vs Ediya**
 
 ---
@@ -12,7 +11,7 @@ p align="center">
 ## 🗂️ 프로젝트 개요
 
 서울시 내 대표 커피 프랜차이즈인 **스타벅스**와 **이디야**의 매장 위치 데이터를 수집하여, **공간적 근접성**, **상권 중복도**, **거리 기반 전략** 등을 비교 분석한 프로젝트입니다.  
-Selenium 기반 크롤링과 Google Maps API를 활용하여 좌표를 추출하고, MySQL 기반 저장 및 folium 시각화를 수행했습니다.
+**Selenium** 기반 크롤링과 **Google Maps API**를 활용하여 좌표를 추출하고, **MySQL** 기반 저장 및 **folium** 시각화를 수행했습니다.
 
 ---
 
@@ -99,13 +98,3 @@ Selenium 기반 크롤링과 Google Maps API를 활용하여 좌표를 추출하
 
 - 본 분석은 **물리적 거리와 행정구 단위 통계**를 기반으로 수행되었습니다.
 - **유동 인구, 상권 특성, 매장 규모 등** 외부 변수는 미포함이므로, **해석 시 참고 수준**으로 활용 부탁드립니다.
-
----
-
-## 🧩 향후 확장 방향
-
-- 유동 인구 및 주변 시설 데이터 결합 분석
-- 머신러닝 기반 매장 입지 예측 모델 시도
-- 타 브랜드(메가커피, 컴포즈커피 등) 포함한 다중 브랜드 비교
-
-
